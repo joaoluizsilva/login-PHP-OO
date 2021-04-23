@@ -78,6 +78,7 @@
     <br>
 
     <a href="cadastro.php">Cadastre-se</a>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veritatis, dolorum nisi mollitia sequi dolor dignissimos eveniet deserunt rem esse quibusdam necessitatibus, autem aperiam tenetur amet expedita nulla. Fugiat, nesciunt commodi.</p>
 
     </div>
 
